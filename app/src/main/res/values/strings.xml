@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">task03_01</string>
+    <string name="description_hint">Описание</string>
+    <string name="name_hint">Имя</string>
+    <string name="quantity_hint">Количество</string>
+    <string name="periodicity_hint">Периодичность</string>
+    <string name="quantity">Кол-во: </string>
+    <string name="periodicity">Периодичность: </string>
+    <string name="save_habit">Сохранить</string>
+</resources>
